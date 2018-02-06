@@ -1,4 +1,4 @@
 def func():
-    print("6666")
+    print("zuomian wangwu")
 func()
 
